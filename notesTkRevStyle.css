@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins:wght@300&family=Roboto&display=swap');
+
+
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+/* 
+html {
+	font-size:62.5%;
+	
+}
+.text-light, .btn-outline-success {
+	margin:1rem;
+}
+
+.main {
+	margin: auto;
+}
+
+.card-container {
+	width:90%;
+	height:auto;
+	display:grid;
+	grid-template-columns: repeat(auto-fill,mimmax(200px,1fr));
+}
+
+.cards {
+	width:200px;
+	height:300px;
+	padding:3px;
+	border: 1px solid black;
+}
+
+textarea {
+	padding:3px;
+	font-size:1.5rem;
+} */
